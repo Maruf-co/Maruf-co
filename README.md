@@ -104,13 +104,13 @@ alt='VSCode'></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf-co&theme=highcontrast&hide_border=true" alt="Maruf-Co" />
 </p>
 
-### <h2 align="center">Visitor Count</h2>
+<h2 align="center">Visitor Count</h2>
 
  <p align="center"> 
  <img src="https://profile-counter.glitch.me/{maruf-co}/count.svg" alt="Maruf-co" />
 </p>
 
-## <h2 align="center">Support Me💰</h2>
+<h2 align="center">Support Me💰</h2>
 
  <p align="center"> 
 <a href="https://www.buymeacoffee.com/workingmonT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
