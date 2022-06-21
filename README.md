@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 ## I'm a Growing Frontend Developer👨‍💻 & Algorithms Lover❤️
 
@@ -54,7 +54,7 @@ alt='Vue'></a>
 <!-- <a href="https://angular.io/">
 <img src="https://img.icons8.com/color/40/angularjs.png"
 alt='Angular'></a> -->
-
+<br>
 <a href="https://www.w3schools.com/cpp/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="blank"> 
