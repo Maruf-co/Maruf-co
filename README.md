@@ -13,9 +13,9 @@
 <img src="https://img.icons8.com/fluency/40/telegram-app.png"/></a>
 <a href="https://www.instagram.com/edmonkaupervud/" target="blank">
 <img src="https://img.icons8.com/fluency/40/instagram-new.png"/></a>
-<a href="https://twitter.com/larymak1_" target="blank">
+<a href="https://twitter.com/workingMonkey42" target="blank">
 <img src="https://img.icons8.com/color/40/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/hillary-nyakundi" target="blank">
+<a href="https://www.linkedin.com/in/maruf-asatullaev-61aa18242" target="blank">
 <img src="https://img.icons8.com/color/40/linkedin.png"/></a>
 <a href="mailto:workingMonkey42@gmail.com" target="blank">
 <img src="https://img.icons8.com/color/40/gmail.png"/></a>
@@ -99,9 +99,9 @@ alt='VSCode'></a>
 ## <h2 align="center">Stats summary📈</h2>
 
 <p align="center">
-<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maruf-co&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Maruf-co" /> 
-<img style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=Maruf-co&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="Maruf-co" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf-co&theme=highcontrast&hide_border=true" alt="Maruf-Co" />
+<img style="width: 500px; margin: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maruf-co&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Maruf-co" /> 
+<img style="width: 500px; margin: 20px;" src="https://github-readme-stats.vercel.app/api?username=Maruf-co&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="Maruf-co" />
+<img style="width: 500px; margin: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf-co&theme=highcontrast&hide_border=true" alt="Maruf-Co" />
 </p>
 
 <h2 align="center">Visitor Count</h2>
@@ -116,4 +116,4 @@ alt='VSCode'></a>
 <a href="https://www.buymeacoffee.com/workingmonT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
 </p>
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Projects:</h2>
