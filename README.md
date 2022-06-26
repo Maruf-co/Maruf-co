@@ -2,9 +2,9 @@
 
 ## I'm a Growing Frontend Developer👨‍💻 & Algorithms Lover❤️
 
-<!-- <h3 align="left">My resume:
-<a href="https://AlekseyKorshuk.github.io" target="blank"> link</a>
-</h3> -->
+<h3 align="left">My resume:
+<a href="https://resume.io/r/OzVeQloH1" target="blank"> link</a>
+</h3>
 
 ### Connect with me:
 
