@@ -3,7 +3,7 @@
 ## I'm a Growing Frontend Developer👨‍💻 & Algorithms Lover❤️
 
 <h3 align="left">My resume:
-<a href="https://disk.yandex.ru/i/HATnhaPXJ50lQg](https://resume-red-one.vercel.app/" target="blank"> link</a>
+<a href="https://resume-red-one.vercel.app/" target="blank"> link</a>
 </h3>
 
 ### Connect with me:
