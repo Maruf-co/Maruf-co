@@ -13,7 +13,7 @@
 <img src="https://img.icons8.com/color/40/gmail.png"/></a>
 <a href="https://t.me/Rescuemybrain" target="blank">
 <img src="https://img.icons8.com/fluency/40/telegram-app.png"/></a>
-<a href="https://www.linkedin.com/in/maruf-asatullaev-61aa18242" target="blank">
+<a href="https://www.linkedin.com/in/marufdev/" target="blank">
 <img src="https://img.icons8.com/color/40/linkedin.png"/></a>
 <a href="https://www.instagram.com/edmonkaupervud/" target="blank">
 <img src="https://img.icons8.com/fluency/40/instagram-new.png"/></a>
