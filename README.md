@@ -81,12 +81,6 @@ alt='Figma'></a>
 <img style="width: 500px; margin: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Maruf-co&theme=highcontrast&hide_border=true" alt="Maruf-Co" />
 </p>
 
-<h2 align="center">Visitor Count</h2>
-
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{maruf-co}/count.svg" alt="Maruf-co" />
-</p>
-
 <h2 align="center">Support Me💰</h2>
 
  <p align="center"> 
